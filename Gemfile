@@ -2,7 +2,10 @@ source 'https://rubygems.org'
 
 
 gem 'landable_publicist', path: '~/desktop/landable_publicist'
+gem 'landable'
 
+gem 'pg'
+gem 'haml'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.4'
